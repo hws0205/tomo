@@ -18,6 +18,7 @@ public class MyBatisTest {
 	
 	@Test
 	public void testFactory(){
+		System.out.println("git test 업데이트");
 		System.out.println(sqlFactory);
 	}
 	
